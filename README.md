@@ -107,10 +107,10 @@ Esc + b
   6. Ejecute el archivo con el comando ```./testfile2.txt```.
 
 ## Entregables
-# FASE 1 - Correr script de evaluación
+### FASE 1 - Correr script de evaluación
 Debe mostrar en vivo el funcionamiento de este laboratorio. Debe descargar el script de evaluación y correrlo en el momento que el Asistente de Laboratorio se lo pida. En base a los resultados obtenidos, se colocará la nota de laboratorio.
 
-# FASE 2 - Documentación del laboratorio
+### FASE 2 - Documentación del laboratorio
 Documentación de sus resultados. Esto lo puedo realizar en un documento tipo bitácora o por medio de un video subido a Youtube. 
 Debe enviar por el GES el documento PDF o el enlace al video. Asegurarse que el video es de acceso público.
 
