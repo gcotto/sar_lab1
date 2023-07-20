@@ -113,7 +113,7 @@ Esc + b
 
 ## Entregables
 ### FASE 1 - Correr script de evaluación
-Debe mostrar en vivo el funcionamiento de este laboratorio. Debe descargar el script de evaluación y correrlo en el momento que el Asistente de Laboratorio se lo pida. En base a los resultados obtenidos, se colocará la nota de laboratorio.
+Debe mostrar en vivo el funcionamiento de este laboratorio. Debe descargar el script de evaluación (lab1-script-evaluacion.sh)y correrlo en el momento que el Asistente de Laboratorio se lo pida. En base a los resultados obtenidos, se colocará la nota de laboratorio.
 
 ### FASE 2 - Documentación del laboratorio
 Debe documentar los resultados de este laboratorio. Este paso lo puedo realizar en un documento tipo bitácora (github o herramienta similar) o por medio de un video subido a Youtube. 
