@@ -64,14 +64,19 @@ Esc + b
   2. Explique los permisos que posee el archivo ```testfile1.txt```.
   3. **Cambio de Permisos:** para cada uno de los comandos, luego de ejecutar, enliste cada uno de ellos y compare los cambios dados:
        3.1. Ejecute:
+
+     
   ```
   chmod u+x testfile1.txt
   chmod g+x testfile1.txt
   chmod o+x testfile1.txt
   chmod 755 testfile1.txt
   ```
-      3.2. Vaya al directorio padre: `cd`
-      3.3. Ejecute:
+
+  3.2. Vaya al directorio padre: `cd`    
+  3.3. Ejecute:
+
+
       
   ```
   chmod –R 400 test/
