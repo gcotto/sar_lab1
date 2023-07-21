@@ -14,7 +14,7 @@
      ```
   2. Corra el comando
     ```
-    ls –help
+    ls -–help
     ```
 ### Manejo de directorio y archivos:
 #### Listando archivos y directorios
