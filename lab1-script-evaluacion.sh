@@ -11,7 +11,7 @@ echo "Ejercicio No. 1"
 echo "Despliegue de history"
 
 echo "---------------------------------------"
-tail -10 ${HOME}/.bash_history
+tail ${HOME}/.bash_history
 echo "---------------------------------------"
 
 echo
